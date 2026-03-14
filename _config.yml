@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "fig.png"
   name             : "Ruichen Xu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at CUHK"
@@ -216,16 +216,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: False
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: False
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: False
     permalink: /:collection/:path/
 
 
