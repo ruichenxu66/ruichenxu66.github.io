@@ -25,11 +25,9 @@ author:
   # Biographic information
   avatar           : "images/fig.jpg"
   name             : "Ruichen Xu"
-  pronouns         : # example: "she/her"  
   bio              : "PhD student at CUHK"
   location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong"
-  uri              : # URL
   email            : "ruichenxu@link.cuhk.edu.hk" 
 
   # Academic websites
