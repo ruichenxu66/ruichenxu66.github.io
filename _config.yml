@@ -23,7 +23,7 @@ repository               : "ruichenxu66/ruichenxu66.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/fig.jpg"
+  avatar           : "fig.jpg"
   name             : "Ruichen Xu"
   bio              : "PhD student at CUHK"
   location         : "Hong Kong"
