@@ -23,7 +23,7 @@ repository               : "ruichenxu66/ruichenxu66.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/themes/fig.jpg"
+  avatar           : "images/fig.jpg"
   name             : "Ruichen Xu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at CUHK"
