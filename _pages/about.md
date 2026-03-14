@@ -14,7 +14,7 @@ I'm also broadly interested in mechanistic interpretability, AI safety, and priv
 
 ---
 ## Selected Publications
-[Filtering with self-attention and storing with MLP: One-layer transformers can provably acquire and extract knowledge](https://arxiv.org/abs/2508.00901) <br
+[Filtering with self-attention and storing with MLP: One-layer transformers can provably acquire and extract knowledge](https://arxiv.org/abs/2508.00901) <br>
 **Ruichen Xu**, Kexin Chen 
 
 [Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers](https://arxiv.org/abs/2603.05143v1)<br>
