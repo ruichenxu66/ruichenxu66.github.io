@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
-
 [Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers](https://arxiv.org/abs/2603.05143v1)<br>
 **Ruichen Xu**, Wenjing Yan, Ying-Jun Angela Zhang
 
@@ -23,5 +21,4 @@ International Conference on Machine Learning, 2025.
 [JSAM: Privacy Straggler-Resilient Joint Client Selection and Incentive Mechanism Design in Differentially Private Federated Learning](https://arxiv.org/abs/2602.21844)<br> 
 **Ruichen Xu**, Ying-Jun Angela Zhang, and Jianwei Huang<br> IEEE INFOCOM Workshops, 2024. (Journal version under revision)
 
-[Tackling Privacy Heterogeneity in Differentially Private Federated Learning](https://arxiv.org/pdf/2602.22633)<br>  
-  **Ruichen Xu**, Ying-Jun Angela Zhang, and Jianwei Huang<br> International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks, 2023. (Journal version under revision)
+[Tackling Privacy Heterogeneity in Differentially Private Federated Learning](https://arxiv.org/pdf/2602.22633)<br> **Ruichen Xu**, Ying-Jun Angela Zhang, and Jianwei Huang<br> International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks, 2023. (Journal version under revision)
