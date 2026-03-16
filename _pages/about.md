@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at The Chinese University of Hong Kong. My research focuses on understanding the theoretical foundations of how LLMs and neural networks learn (reasoning, knowledge mechanisms, etc.).
+I am a PhD candidate at The Chinese University of Hong Kong. My recent research focuses on understanding the theoretical foundations of how LLMs and neural networks learn (reasoning, knowledge mechanisms, etc.).
 I'm also broadly interested in mechanistic interpretability, AI safety, and privacy.
  
 **I am currently seeking research positions.** If you are interested in collaboration or have an open position, please feel free to reach out!
