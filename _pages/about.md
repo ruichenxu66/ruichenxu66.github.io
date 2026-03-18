@@ -14,6 +14,8 @@ I'm also broadly interested in mechanistic interpretability, AI safety, and priv
 
 ---
 ## Selected Publications
+For Independent Research, I use email rcxu642@gmail.com. For Supervised Research, I use email xr021@ie.cuhk.edu.hk.
+
 [Filtering with Self-Attention and Storing with MLP: One-Layer Transformers Can Provably Acquire and Extract Knowledge](https://arxiv.org/abs/2508.00901) <br>
 **Ruichen Xu**, Kexin Chen 
 
