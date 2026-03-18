@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**Contact**: xr021@ie.cuhk.edu.hk / ruichenxu@link.cuhk.edu.hk / rcxu642@gmail.com
+
 I am a PhD candidate at The Chinese University of Hong Kong. My recent research focuses on understanding the theoretical foundations of how LLMs and neural networks learn (reasoning, knowledge mechanisms, etc.).
 I'm also broadly interested in mechanistic interpretability, AI safety, and privacy.
  
@@ -14,8 +16,6 @@ I'm also broadly interested in mechanistic interpretability, AI safety, and priv
 
 ---
 ## Selected Publications
-For Independent Research, I use email rcxu642@gmail.com. For Supervised Research, I use email xr021@ie.cuhk.edu.hk.
-
 [Filtering with Self-Attention and Storing with MLP: One-Layer Transformers Can Provably Acquire and Extract Knowledge](https://arxiv.org/abs/2508.00901) <br>
 **Ruichen Xu**, Kexin Chen 
 
