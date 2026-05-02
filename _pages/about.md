@@ -21,6 +21,7 @@ I'm also broadly interested in mechanistic interpretability, AI safety, and priv
 
 [Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers](https://arxiv.org/abs/2603.05143v1)<br>
 **Ruichen Xu**, Wenjing Yan, Ying-Jun Angela Zhang
+International Conference on Machine Learning, 2026.
 
 [Rethinking Benign Overfitting in Two-layer Neural Networks](https://arxiv.org/abs/2502.11893)<br>
 **Ruichen Xu**, Kexin Chen<br>
